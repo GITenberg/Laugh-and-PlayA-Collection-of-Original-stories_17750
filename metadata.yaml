@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17750#Laugh-and-PlayA-Collection-of-Original-stories
 gutenberg_bookshelf: Children's Anthologies
 gutenberg_issued: '2006-02-11'
 gutenberg_type: Text
